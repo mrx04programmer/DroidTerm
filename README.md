@@ -1,4 +1,8 @@
-# DroidTerm
+<div align="center">
+    <img width="100" src="https://user-images.githubusercontent.com/46001898/169200124-35c83e2f-1e73-48e1-ae78-6dddf1b222ef.png">
+    <h2>DroidTerm</h2>
+</div>
+
 Terminal en python con herramientas básicas para análisis en sistemas locales para android 
 ### Pre-Requisitos
 
