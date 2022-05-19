@@ -8,10 +8,10 @@ Terminal en python con herramientas básicas para análisis en sistemas locales 
 
 Nombre      | Comando de instalación y documentación
 ---------------|-------
-nmap | ![apt install nmap](https://nmap.org/)
-python | ![apt install python](https://www.python.org/)
-netcat | ![apt install netcat-openbsd](http://netcat.sourceforge.net/)
-iproute2 | ![apt install iproute2](https://interpolados.wordpress.com/2017/04/24/comando-ip-route/)
+nmap | <a href="https://nmap.org/">apt install nmap</a>
+python | <a href="https://www.python.org">apt install python</a>
+netcat | <a href="http://netcat.sourceforge.net/">apt install netcat-openbsd</a>
+iproute2 | <a href="https://interpolados.wordpress.com/2017/04/24/comando-ip-route/">apt install iproute2</a>
 
 ## Ejecución 🚬
     $ cd DroidTerm
