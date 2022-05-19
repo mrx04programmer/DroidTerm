@@ -17,3 +17,4 @@ iproute2 | ![apt install iproute2](https://interpolados.wordpress.com/2017/04/24
 ![1](https://user-images.githubusercontent.com/46001898/169197586-a7c0734c-f058-416d-987f-31d777f22d4e.png)
 ### Ejecutando Burp
 ![2](https://user-images.githubusercontent.com/46001898/169197605-6a35134f-95ee-438a-83ff-b9270b40d465.png)
+![](https://img.shields.io/badge/devices-android,%20linux-informational) ![](https://img.shields.io/badge/python-98%25-orange) ![](https://img.shields.io/badge/bash-2%25-9cf)
